@@ -3,7 +3,7 @@ import SecondComponent from './SecondComponent';
 import ThirdComponent from './ThirdComponent';
 import FourthComponent from './FourthComponent';
 import { FifthComponent } from './FirstComponent';
-import LearningJavaScript from './LearningJavaScript';
+import LearningJavaScript from './LearningJavascript';
 
 export default function LearningComponent() {
     return (
