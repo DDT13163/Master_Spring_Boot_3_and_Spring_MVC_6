@@ -10,4 +10,11 @@ function App() {
   )
 }
 
+// function PlayingWithProps(properties) {
+//   console.log(properties)
+//   return (
+//     <div>Props</div>
+//   )
+// }
+
 export default App;
