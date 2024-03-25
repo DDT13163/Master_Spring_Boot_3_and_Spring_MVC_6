@@ -1,12 +1,12 @@
 import { useParams, Link } from 'react-router-dom'
 import { useState } from 'react'
-import { retrieveHelloWorldBean } from './api/HelloWorldApiService'
+import { retrieveHelloWorldPathVariable, retrieveAllTodosForUserName } from './api/HelloWorldApiService'
 
 export default function WelcomeComponent() {
 
     const { username } = useParams()
 
-    const[message, setMessage] = useState(null)
+    const [message, setMessage] = useState(null)
 
     function callHelloWorldRestApi() {
         // axios.get('http://localhost:8080/hello-world-bean')
@@ -14,10 +14,20 @@ export default function WelcomeComponent() {
         // .catch( (error) => errorResponse(error) )
         // .finally( () => console.log('cleanup'))
 
-        retrieveHelloWorldBean()
-        .then( (response) => successfullyResponse(response))
-        .catch( (error) => errorResponse(error))
-        .finally( () => console.log('cleanup'))
+        // retrieveHelloWorldBean()
+        // .then( (response) => successfullyResponse(response))
+        // .catch( (error) => errorResponse(error))
+        // .finally( () => console.log('cleanup'))
+
+        retrieveHelloWorldPathVariable('Trong')
+            .then((response) => successfullyResponse(response))
+            .catch((error) => errorResponse(error))
+            .finally(() => console.log('cleanup'))
+
+        retrieveAllTodosForUserName('Trong')
+            .then((response) => successfullyResponse(response))
+            .catch((error) => errorResponse(error))
+            .finally(() => console.log('cleanup'))
     }
 
     function successfullyResponse(response) {
