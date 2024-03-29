@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/Master Spring Boot 3 and Spring MVC 6.iml" filepath="$PROJECT_DIR$/.idea/Master Spring Boot 3 and Spring MVC 6.iml" />
       <module fileurl="file://$PROJECT_DIR$/My_First_Web_App/My_First_Web_App.iml" filepath="$PROJECT_DIR$/My_First_Web_App/My_First_Web_App.iml" />
       <module fileurl="file://$PROJECT_DIR$/restful-web-services/restful-web-services.iml" filepath="$PROJECT_DIR$/restful-web-services/restful-web-services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-rest-api-starting-code/01-rest-api-starting-code/restful-web-services (1).iml" filepath="$PROJECT_DIR$/01-rest-api-starting-code/01-rest-api-starting-code/restful-web-services (1).iml" />
     </modules>
   </component>
 </project>

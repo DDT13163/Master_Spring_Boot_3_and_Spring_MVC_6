@@ -3,9 +3,7 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/My_First_Web_App/pom.xml" />
-        <option value="$PROJECT_DIR$/restful-web-services/pom.xml" />
-        <option value="$PROJECT_DIR$/01-rest-api-starting-code/01-rest-api-starting-code/pom.xml" />
+        <option value="$PROJECT_DIR$/01-rest-api-starting-code/pom.xml" />
       </list>
     </option>
   </component>
