@@ -53,9 +53,16 @@
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-security:3.0.0-M4" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-aop:6.0.0-M5" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.security:spring-security-config:6.0.0-M6" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.security:spring-security-web:6.0.0-M6" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-oauth2-resource-server:3.0.0-M4" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.security:spring-security-core:6.0.0-M6" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.security:spring-security-crypto:6.0.0-M6" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework.security:spring-security-web:6.0.0-M6" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.security:spring-security-oauth2-resource-server:6.0.0-M6" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.security:spring-security-oauth2-core:6.0.0-M6" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.security:spring-security-oauth2-jose:6.0.0-M6" level="project" />
+    <orderEntry type="library" name="Maven: com.nimbusds:nimbus-jose-jwt:9.23" level="project" />
+    <orderEntry type="library" name="Maven: com.github.stephenc.jcip:jcip-annotations:1.0-1" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-configuration-processor:3.0.0-M4" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-validation:3.0.0-M4" level="project" />
     <orderEntry type="library" name="Maven: org.apache.tomcat.embed:tomcat-embed-el:10.0.22" level="project" />
     <orderEntry type="library" name="Maven: org.hibernate.validator:hibernate-validator:7.0.4.Final" level="project" />
