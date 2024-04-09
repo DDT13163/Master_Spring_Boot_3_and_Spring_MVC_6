@@ -7,9 +7,6 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="restful-web-services" />
-        <module name="restful-web-services (1)" />
-        <module name="My_First_Web_App" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

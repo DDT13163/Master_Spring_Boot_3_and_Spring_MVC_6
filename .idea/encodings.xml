@@ -2,10 +2,8 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/01-rest-api-starting-code/01-rest-api-starting-code/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/01-rest-api-starting-code/01-rest-api-starting-code/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/My_First_Web_App/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/My_First_Web_App/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/restful-web-services/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/restful-web-services/src/main/resources" charset="UTF-8" />
   </component>
 </project>
