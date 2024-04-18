@@ -3,6 +3,7 @@ com\in28minutes\rest\webservices\restfulwebservices\todo\TodoService.class
 com\in28minutes\rest\webservices\restfulwebservices\jwt\JwtTokenRequest.class
 com\in28minutes\rest\webservices\restfulwebservices\todo\TodoResource.class
 com\in28minutes\rest\webservices\restfulwebservices\RestfulWebServicesApplication.class
+com\in28minutes\rest\webservices\restfulwebservices\todo\TodoRepository.class
 com\in28minutes\rest\webservices\restfulwebservices\todo\Todo.class
 com\in28minutes\rest\webservices\restfulwebservices\jwt\JwtSecurityConfig.class
 com\in28minutes\rest\webservices\restfulwebservices\jwt\JwtTokenService.class
@@ -10,4 +11,5 @@ com\in28minutes\rest\webservices\restfulwebservices\helloworld\HelloWorldBean.cl
 com\in28minutes\rest\webservices\restfulwebservices\helloworld\HelloWorldController.class
 com\in28minutes\rest\webservices\restfulwebservices\jwt\JwtAuthenticationController.class
 com\in28minutes\rest\webservices\restfulwebservices\RestfulWebServicesApplication$1.class
+com\in28minutes\rest\webservices\restfulwebservices\todo\TodoJpaResource.class
 com\in28minutes\rest\webservices\restfulwebservices\security\BasicAuthenticationSecurityConfiguration.class
